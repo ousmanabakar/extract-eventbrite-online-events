@@ -1,6 +1,8 @@
+# [scrapingxpert](https://apify.com/scrapingxpert/)
+
 # About Extract Eventbrite online events scraper
 
-Eventbrite did not provide an API specifically designed for extracting online events. Extracting event data from Eventbrite usually required some coding knowledge and API integration.
+Eventbrite did not provide an API specifically designed for extracting online events. Extracting event data from Eventbrite usually requires some coding knowledge and API integration.
 
 Fortunately, there is a tool called Apify that offers a solution for extracting the latest online events from Eventbrite without the need for coding. Apify is a web scraping and automation platform that simplifies the process of extracting data from websites.
 
@@ -132,3 +134,5 @@ For comprehensive information, explore the Apify API reference [documentation](h
 ## 💬 Feedback 💬
 
 If you have any technical feedback or encountered a bug while using the Extract Eventbrite online events Scraper, please create an issue on the actor's dedicated ["Issues"](https://console.apify.com/actors/PmxIAXfwo0gUUNdG4/issues) tab in the Apify Console. We value your input and appreciate your help in improving our services.
+
+## try it for free: [Eventbrite scraper](https://apify.com/scrapingxpert/extract-eventbrite-online-events
