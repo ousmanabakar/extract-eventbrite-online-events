@@ -1,6 +1,6 @@
-# [scrapingxpert](https://apify.com/scrapingxpert/)
+# [scrapingxpert](https://apify.com/scrapingxpert/) 🧲
 
-# About Extract Eventbrite online events scraper
+# ✨ About Extract Eventbrite online events scraper ✨
 
 Eventbrite did not provide an API specifically designed for extracting online events. Extracting event data from Eventbrite usually requires some coding knowledge and API integration.
 
@@ -14,7 +14,7 @@ Apify provides a user-friendly interface that allows users to configure and run 
 
 
 
-## Output
+## Output 📊☑️
 ```python
  {
     "image": {
@@ -134,5 +134,6 @@ For comprehensive information, explore the Apify API reference [documentation](h
 ## 💬 Feedback 💬
 
 If you have any technical feedback or encountered a bug while using the Extract Eventbrite online events Scraper, please create an issue on the actor's dedicated ["Issues"](https://console.apify.com/actors/PmxIAXfwo0gUUNdG4/issues) tab in the Apify Console. We value your input and appreciate your help in improving our services.
+
 
 ## try it for free: [Eventbrite scraper](https://apify.com/scrapingxpert/extract-eventbrite-online-events
